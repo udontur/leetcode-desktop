@@ -1,6 +1,6 @@
 {
-    "name": "APP_NAME",
-    "url": "https://APP_URL",
-    "description": "OPTIONAL_DESCRIPTION",
-    "keywords": "KEYWORD_1;KEYWORD_2;"
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "description": "LeetCode Desktop",
+    "keywords": "leetcode;code;programming;competitive;desktop;"
 }
